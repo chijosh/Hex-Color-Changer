@@ -1,0 +1,12 @@
+:root {
+    --mainPink: #fac0e1;
+}
+
+body {
+    font-family: 'Courgette', cursive;
+    color: var(--mainPink);
+}
+
+.btn2 {
+    max-height: 100%;
+}
